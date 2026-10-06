@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hutch — IT director, agent-fleet operator
 
-<!--
-**hutchins79/hutchins79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run IT for a living and homelabs for fun — somewhere in between,
+the AI agents started running the infrastructure.
 
-Here are some ideas to get you started:
+- 🤖 **Now**: a fleet of Hermes agents on Telegram handling jobs, errands,
+  health data, and security triage — orchestrated across Proxmox VMs
+- 🧰 **Stack**: Proxmox VE · OPNsense · WireGuard · Debian · MLX on a
+  Mac mini LLM appliance
+- 💼 **25+ yrs IT**: data centers, networks, VDI, DR/HA, ITSM — and
+  the SOX/SSAE audits that come with them
+- 🌐 [charleshutchins.me](https://charleshutchins.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### On GitHub
+
+[`hermes-bubbles`](https://github.com/hutchins79/hermes-bubbles) —
+iMessage-inspired chat bubble themes for Hermes Desktop (light + dark)
+
+More agent-flavored things as they graduate from the homelab.
